@@ -1408,6 +1408,23 @@
             ]
           ]
         ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "POP_M": 16665.0, 
+        "ASS_CONST1": "Byatarayanapura", 
+        "POP_F": 14735.0, 
+        "OBJECTID": 15, 
+        "AREA_SQ_KM": 9.6, 
+        "LON": 77.5973709782568, 
+        "WARD_NO": 7.0, 
+        "ASS_CONST_": "152", 
+        "WARD_NAME": "Byatarayanapura", 
+        "POP_TOTAL": 31400.0, 
+        "POP_ST": 1383.0, 
+        "POP_SC": 3085.0, 
+        "LAT": 13.0610706104047, 
+        "RESERVATIO": "Scheduled Tribe (Woman)"
       }
     }
 
