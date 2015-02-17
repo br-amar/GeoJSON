@@ -1,31 +1,44 @@
 {
-    "type": "FeatureCollection",
-    "features": [
+  "type": "FeatureCollection", 
+  "features": [
     {
-        "geometry": {
-        "type": "Polygon",
-          		"coordinates":[
-                  [
-                  ]
-                ]
-        },
-    	"type": "Feature":
-    	"properties":{
-      "POP_M": 10402.0, 
-      "ASS_CONST1": "Yelahanka", 
-      "WARD_NO": 2.0, 
-      "OBJECTID": 1, 
-      "AREA_SQ_KM": 7.06, 
-      "ASS_CONST_": "150", 
-      "POP_F": 9224.0, 
-      "LON": 77.58042209477, 
-      "WARD_NAME": "Chowdeswari Ward", 
-      "POP_TOTAL": 19626.0, 
-      "POP_ST": 286.0, 
-      "POP_SC": 2630.0, 
-      "LAT": 13.121709445639, 
-      "RESERVATIO": "General"
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              77.58108240629188, 
+              13.10736232642277
+            ], 
+            [
+              77.59301001508199, 
+              13.09884025577689
+            ], 
+            [
+              77.59229387222348, 
+              13.097196193805827
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "POP_M": 10402.0, 
+        "ASS_CONST1": "Yelahanka", 
+        "POP_F": 9224.0, 
+        "OBJECTID": 1, 
+        "AREA_SQ_KM": 7.06, 
+        "LON": 77.58042209477, 
+        "WARD_NO": 2.0, 
+        "ASS_CONST_": "150", 
+        "WARD_NAME": "Chowdeswari Ward", 
+        "POP_TOTAL": 19626.0, 
+        "POP_ST": 286.0, 
+        "POP_SC": 2630.0, 
+        "LAT": 13.121709445639, 
+        "RESERVATIO": "General"
       }
     }
-    ]
+  ]
 }
+    
